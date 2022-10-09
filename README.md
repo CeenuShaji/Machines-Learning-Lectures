@@ -1,3 +1,18 @@
 # Lectures
 
 This repository contains all lecture materials (presentations, notebooks, virtual board notes and Python scripts).
+
+| Date | Recording | Topic |
+| -- | -- | -- |
+| Aug. 25 | [Recording Part 1](https://ufedge.video.ufl.edu/Mediasite/Channel/fall2022eel5840/watch/e64bfc8cfa2c44bba15d640415df660e1d) & [Recording Part 2](https://ufedge.video.ufl.edu/Mediasite/Channel/fall2022eel5840/watch/cfeabb4c75fa41f19812941ecee583381d) | 1. [Introduction to Machine Learning](https://github.com/UF-EEL5840-F22/Lectures/tree/main/Lecture%201) |
+| Aug. 30 | [Recording](https://ufedge.video.ufl.edu/Mediasite/Channel/fall2022eel5840/watch/b4bb9d3d8d6c4bef837e8178a510fd731d) | 2. [Linear Regression & Polynomial Basis Functions](https://github.com/UF-EEL5840-F22/Lectures/tree/main/Lecture%202) |
+| Sep. 1 | [Recording Part 1](https://ufedge.video.ufl.edu/Mediasite/Channel/fall2022eel5840/watch/70f3fa43c3934cc2aba150c7b5b607e01d) & [Recording Part 2](https://ufedge.video.ufl.edu/Mediasite/Channel/fall2022eel5840/watch/b4b6a3ca83ba4a9c9b06861feb7119911d) | 3. [Model Selection & Regularization](https://github.com/UF-EEL5840-F22/Lectures/tree/main/Lecture%203) |
+| Sep. 6 | [Recording](https://ufedge.video.ufl.edu/Mediasite/Channel/fall2022eel5840/watch/5f9d2efeff784a958dc09fa6323217381d) | 4. [Performance Measures for Regression Tasks, Cross-Validation & Hyperparameter Tuning](https://github.com/UF-EEL5840-F22/Lectures/tree/main/Lecture%204) |
+| Sep. 8 | [Recording Part 1](https://ufedge.video.ufl.edu/Mediasite/Channel/fall2022eel5840/watch/d5c3dfb36d1a48a1bcfd5e12acfc13c81d) & [Recording Part 2](https://ufedge.video.ufl.edu/Mediasite/Channel/fall2022eel5840/watch/00c70a64efe343fa97e855764a1457a31d) | 5. [The Bias-Variance Trade-Off & The Curse of Dimensionality](https://github.com/UF-EEL5840-F22/Lectures/tree/main/Lecture%205) |
+| Sep. 13 | [Recording](https://ufedge.video.ufl.edu/Mediasite/Channel/fall2022eel5840/watch/e965809f8f72411a9cfc3ab0dbcd140f1d) | 6. [HiPerGator Info Session](https://github.com/UF-EEL5840-F22/Lectures/tree/main/Lecture%206) |
+| Sep. 15 | [Recording Part 1](https://ufedge.video.ufl.edu/Mediasite/Channel/fall2022eel5840/watch/fdbecb5615b34a238600a274c54f9ad41d) & [Recording Part 2](https://ufedge.video.ufl.edu/Mediasite/Channel/fall2022eel5840/watch/edb00049e5e54c15ad556c419eb825e51d) | 7. [Bayesian Interpretation, MLE & MAP](https://github.com/UF-EEL5840-F22/Lectures/tree/main/Lecture%207) |
+| Sep. 20 | [Recording](https://ufedge.video.ufl.edu/Mediasite/Channel/fall2022eel5840/watch/90befff12e564a24a7b6972fa583545a1d) | 8. [Conjugate Prior Relationship & Online Prior Update](https://github.com/UF-EEL5840-F22/Lectures/tree/main/Lecture%208) |
+| Sep. 22 | [Recording Part 1](https://ufedge.video.ufl.edu/Mediasite/Channel/fall2022eel5840/watch/b4a4f31a200a46a9ac670f79e389cc791d) & [Recording Part 2](https://ufedge.video.ufl.edu/Mediasite/Channel/fall2022eel5840/watch/76403ec7ec674fd99bcd79fc49e839261d) | 9. [The Naive Bayes Classifier & Review of Gaussian Distribution](https://github.com/UF-EEL5840-F22/Lectures/tree/main/Lecture%209) |
+| Sep. 27 | [Recording](https://ufedge.video.ufl.edu/Mediasite/Channel/fall2022eel5840/watch/acec563f1d654024a0cab6173d52b9551d) | 10. [Final Project Discussion](https://github.com/UF-EEL5840-F22/Lectures/tree/main/Lecture%2010) |
+| Oct. 4 | [Recording](https://ufedge.video.ufl.edu/Mediasite/Channel/fall2022eel5840/watch/16ca8ac6a5444a8e892d5ebe6fec577e1d) | 11. []() |
+| Oct. 6 | [Recording Part 1](https://ufedge.video.ufl.edu/Mediasite/Channel/fall2022eel5840/watch/93be21e9b6094d2b9cbd178574d5cfb51d) & [Recording Part 2](https://ufedge.video.ufl.edu/Mediasite/Channel/fall2022eel5840/watch/56a381293fe64c20a496e2e28dc5592b1d) | 12. []() |
